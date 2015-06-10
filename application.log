@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025585</millis>
+  <sequence>0</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>INFO</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creating new University named: GT</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025675</millis>
+  <sequence>14</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>INFO</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creating new University named: GT</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025685</millis>
+  <sequence>28</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>INFO</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creating new University named: GT</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025705</millis>
+  <sequence>38</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>CONFIG</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>getNumberOfStudents</method>
+  <thread>1</thread>
+  <message>Returning number of students</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025705</millis>
+  <sequence>39</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>FINE</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>addStudent</method>
+  <thread>1</thread>
+  <message>Adding student: edu.gatech.oad.logdemo.model.Student@57fffcd7</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025705</millis>
+  <sequence>40</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>CONFIG</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>getNumberOfStudents</method>
+  <thread>1</thread>
+  <message>Returning number of students</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025705</millis>
+  <sequence>41</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>INFO</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Creating new University named: GT</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>51</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>FINE</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>addStudent</method>
+  <thread>1</thread>
+  <message>Adding student: edu.gatech.oad.logdemo.model.Student@598067a5</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>52</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>FINE</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>addStudent</method>
+  <thread>1</thread>
+  <message>Adding student: edu.gatech.oad.logdemo.model.Student@3c0ecd4b</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>53</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>FINE</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>addStudent</method>
+  <thread>1</thread>
+  <message>Adding student: edu.gatech.oad.logdemo.model.Student@14bf9759</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>54</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>CONFIG</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>getNumberOfStudents</method>
+  <thread>1</thread>
+  <message>Returning number of students</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>55</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>FINEST</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>removeStudent</method>
+  <thread>1</thread>
+  <message>Removing student: edu.gatech.oad.logdemo.model.Student@3c0ecd4b</message>
+</record>
+<record>
+  <date>2015-06-01T18:00:25</date>
+  <millis>1433196025715</millis>
+  <sequence>56</sequence>
+  <logger>edu.gatech.oad.logdemo.model.University</logger>
+  <level>CONFIG</level>
+  <class>edu.gatech.oad.logdemo.model.University</class>
+  <method>getNumberOfStudents</method>
+  <thread>1</thread>
+  <message>Returning number of students</message>
+</record>
+</log>
